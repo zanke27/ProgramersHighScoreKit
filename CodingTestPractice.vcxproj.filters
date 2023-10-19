@@ -13,25 +13,58 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\알고리즘Kit">
+      <UniqueIdentifier>{270689a1-024f-41b1-929c-1b3c267d711f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\알고리즘Kit\정렬">
+      <UniqueIdentifier>{94c6437a-633b-4123-a257-f8d23ece0e6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\알고리즘Kit\스택, 큐">
+      <UniqueIdentifier>{ed520629-5816-4eac-88a1-a7fa8b30eac9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\알고리즘Kit\DFS, BFS">
+      <UniqueIdentifier>{9e71e5de-8ec4-42df-9ce7-8a4629432dda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준">
+      <UniqueIdentifier>{91743de1-8ec8-4993-9c09-31d6cb4b6644}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\DFS, BFS">
+      <UniqueIdentifier>{debf5f21-5885-4286-b1fc-c8946eef9730}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="같은 숫자는 싫어.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="올바른 괄호.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\알고리즘Kit\스택, 큐</Filter>
     </ClCompile>
     <ClCompile Include="기능 개발.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="프로세스.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\알고리즘Kit\스택, 큐</Filter>
     </ClCompile>
     <ClCompile Include="다리를 지나는 트럭.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\알고리즘Kit\스택, 큐</Filter>
+    </ClCompile>
+    <ClCompile Include="올바른 괄호.cpp">
+      <Filter>소스 파일\알고리즘Kit\스택, 큐</Filter>
     </ClCompile>
     <ClCompile Include="주식가격.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\알고리즘Kit\스택, 큐</Filter>
+    </ClCompile>
+    <ClCompile Include="프로세스.cpp">
+      <Filter>소스 파일\알고리즘Kit\스택, 큐</Filter>
+    </ClCompile>
+    <ClCompile Include="타겟 넘버.cpp">
+      <Filter>소스 파일\알고리즘Kit\DFS, BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="게임 맵 최단거리.cpp">
+      <Filter>소스 파일\알고리즘Kit\DFS, BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="K번째수.cpp">
+      <Filter>소스 파일\알고리즘Kit\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 큰 수.cpp">
+      <Filter>소스 파일\알고리즘Kit\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="H-Index.cpp">
+      <Filter>소스 파일\알고리즘Kit\정렬</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
