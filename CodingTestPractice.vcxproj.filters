@@ -66,5 +66,11 @@
     <ClCompile Include="H-Index.cpp">
       <Filter>소스 파일\알고리즘Kit\정렬</Filter>
     </ClCompile>
+    <ClCompile Include="미로찾기.cpp">
+      <Filter>소스 파일\백준\DFS, BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="토마토.cpp">
+      <Filter>소스 파일\백준\DFS, BFS</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
